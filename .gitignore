@@ -1,0 +1,6 @@
+.DS_Store
+Authentication.js
+dist/
+build/
+.env
+**/*_note.md

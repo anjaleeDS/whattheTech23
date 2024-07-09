@@ -8,6 +8,8 @@ This project showcases a gallery of AI-generated images created with Midjourney.
 - **CSS Transitions**: Applied for smooth visual effects during scroll and image interactions. Explore [CSS Transitions](https://developer.mozilla.org/en-US/docs/Web/CSS/transition).
 - **Lightbox Feature**: Provides a full-screen view of images with navigation controls.
 
+## bogus info
+
 # whattheTech23
 this is the folder for class tech 23, summer 2024
 oh man what time is being used??
