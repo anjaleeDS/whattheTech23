@@ -1,0 +1,26 @@
+# How to Update Your AI Art Gallery with Your Own Images
+
+This guide will help you customize your AI Art Gallery by updating it with your own images. Follow the steps below to
+add your unique artwork to the gallery.
+
+## Prerequisites
+
+- Basic knowledge of HTML and CSS
+- Your own images ready for upload
+- A text editor (like VSCode, Sublime Text, etc.)
+
+## Steps to Update the Gallery
+
+### 1. Organize Your Images
+
+Prepare your images by organizing them into folders corresponding to the sections in your gallery (e.g., `characters`,
+`cityscapes`, `indoors`, `textures`, `styles`). Make sure your images are named appropriately and are in the correct
+format (e.g., `.jpg`, `.png`).
+
+### 2. Upload Your Images
+
+Upload your images to the `images` directory of your project. Ensure that the path to each image is correct. The folder
+structure should look like this:
+
+# Update Instructions
+check out this link [Update Instructions](anjaleeDS/whattheTech23/docs/update_instructions)
