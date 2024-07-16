@@ -23,4 +23,4 @@ then you connect the remote to the local
 
 i don't want to do a new commit, can use git commit -m amend "Message"
 
-here's the updated instructions [this link] (anjaleeDS/whattheTech23/docs/update_instructions)
+here's the updated instructions [this link](anjaleeDS/whattheTech23/docs/update_instructions)
